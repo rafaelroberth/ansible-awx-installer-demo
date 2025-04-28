@@ -1,1 +1,9 @@
-id_rsa
+# Ignore files and directories that should not be committed
+
+*.pyc
+.DS_Store
+*.log
+/tmp/
+/files/
+/awxcompose/
+/awxprojects/
